@@ -1,3 +1,4 @@
+![logo](https://github.com/rupeshrajrr/rupeshrajrr/blob/942469aef1ffeb43a1f98cb6519ee6e7f7d44e36/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
 <h3 align="center">A Passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/11/hyu.gif">
